@@ -1,6 +1,6 @@
 ### Desenvolvedor frontend
 
-Eu projeto e desenvolvo interfaces web modernas, acessíveis e de alta performance, com foco em usabilidade, responsividade e estética. Busco transformar ideias em experiências digitais fluidas e intuitivas, garantindo consistência entre design, código e desempenho.
+Eu desenvolvo interfaces web modernas, acessíveis e de alta performance, com foco em usabilidade, responsividade e estética. Busco transformar ideias em experiências digitais fluidas e intuitivas, garantindo consistência entre design, código e desempenho.
 
 ### Principais tecnologias
 
