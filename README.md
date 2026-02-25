@@ -24,5 +24,5 @@ Eu desenvolvo interfaces web modernas, acessíveis e de alta performance, com fo
 
 - [Email](mailto:gustavopp.dev@gmail.com)  
 
-- [Instagram](https://www.instagram.com/gustavohenriquedev/)
+- [Whatsapp](https://wa.me/16992375781)
 
